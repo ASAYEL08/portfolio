@@ -1,3 +1,10 @@
+# Personal Portfolio
+
+## Live Website
+https://asayel08.github.io/portfolio/
+
+## Repository
+https://github.com/ASAYEL08/portfolio
 # Portfolio
 
 ## Overview
